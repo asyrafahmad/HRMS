@@ -1,0 +1,38 @@
+~ npm run dev
+~ npm run watch
+~ php artisan serve --port=8080 = http://127.0.0.1:8080/hooks
+~ npm install view-design --save                                                    (Importing - IView vue)
+~ npm install vuex
+
+~ php artisan make:model Blog -m
+~ php artisan migrate
+~ php artisan migrate up
+~ php artisan migrate down
+~ php artisan make:controller AdminController
+~ php artisan make:middleware AdminCheck
+~ php artisan make:model Role -m
+
+------------------------------------------------------------------------------
+3rd party
+
+iview vue (FOR VUE) = https://www.iviewui.com/docs/introduce-en
+
+------------------------------------------------------------------------------
+
+FIX BUG
+1. in category -> delete category and add category picture
+
+------------------------------------------------------------------------------
+Learning
+
+1. created
+2. computed         // getters
+3. components       // components
+4. methods
+5. watch
+
+Store
+1. state
+2. getters
+3. mutations
+4. actions
